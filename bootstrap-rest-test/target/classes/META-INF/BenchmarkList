@@ -1,3 +1,0 @@
-JMH S 45 com.hubspot.dropwizard.BootstrapRestBenchmark S 80 com.hubspot.dropwizard.generated.BootstrapRestBenchmark_hitBootstrapRest_jmhTest S 16 hitBootstrapRest S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
-JMH S 45 com.hubspot.dropwizard.BootstrapRestBenchmark S 80 com.hubspot.dropwizard.generated.BootstrapRestBenchmark_hitBootstrapRest_jmhTest S 16 hitBootstrapRest S 10 SampleTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
-JMH S 45 com.hubspot.dropwizard.BootstrapRestBenchmark S 80 com.hubspot.dropwizard.generated.BootstrapRestBenchmark_hitBootstrapRest_jmhTest S 16 hitBootstrapRest S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 

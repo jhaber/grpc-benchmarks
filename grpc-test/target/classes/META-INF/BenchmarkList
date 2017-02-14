@@ -1,3 +1,0 @@
-JMH S 30 com.hubspot.grpc.GrpcBenchmark S 56 com.hubspot.grpc.generated.GrpcBenchmark_hitGrpc_jmhTest S 7 hitGrpc S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
-JMH S 30 com.hubspot.grpc.GrpcBenchmark S 56 com.hubspot.grpc.generated.GrpcBenchmark_hitGrpc_jmhTest S 7 hitGrpc S 10 SampleTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
-JMH S 30 com.hubspot.grpc.GrpcBenchmark S 56 com.hubspot.grpc.generated.GrpcBenchmark_hitGrpc_jmhTest S 7 hitGrpc S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
