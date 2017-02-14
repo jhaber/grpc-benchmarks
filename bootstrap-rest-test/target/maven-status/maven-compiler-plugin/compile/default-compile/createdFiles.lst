@@ -1,0 +1,12 @@
+com/hubspot/dropwizard/Pojo.class
+META-INF/CompilerHints
+com/hubspot/dropwizard/BenchmarkService.class
+com/hubspot/dropwizard/generated/BootstrapRestBenchmark_hitBootstrapRest_jmhTest.class
+com/hubspot/dropwizard/generated/BootstrapRestBenchmark_jmhType_B3.class
+com/hubspot/dropwizard/BootstrapRestBenchmark.class
+META-INF/BenchmarkList
+com/hubspot/dropwizard/generated/BootstrapRestBenchmark_jmhType_B2.class
+com/hubspot/dropwizard/generated/BootstrapRestBenchmark_jmhType.class
+com/hubspot/dropwizard/BenchmarkResource.class
+com/hubspot/dropwizard/BenchmarkResponse.class
+com/hubspot/dropwizard/generated/BootstrapRestBenchmark_jmhType_B1.class

@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "com.hubspot.grpc";
+option java_outer_classname = "BenchmarkProtos";
+
+package grpc;
+
+service Benchmark {
+  rpc Get (BenchmarkRequest) returns (BenchmarkResponse) {}
+}
+
+message BenchmarkRequest {}
+
+message BenchmarkResponse {
+  repeated Value values = 1;
+}
+
+message Value {
+  int64 id = 1;
+  string name = 2;
+  map<string, string> properties = 3;
+}
